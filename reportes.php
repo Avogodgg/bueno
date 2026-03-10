@@ -1,5 +1,5 @@
 <?php
 for ($i = 0; $i < 10; $i++) {
-    echo "Reporte $i<br>";
+    echo "Reporte Mensual $i<br>";
 }
 ?>

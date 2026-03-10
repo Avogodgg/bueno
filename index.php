@@ -25,9 +25,17 @@
         <main>
             Pagina Principal
             <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
             <a href="reportes.php">Reportes Mensual</a>
             <br>
-            <a href=""></a>dashboard.php">Dashboard</a>
+            <a href="dashboard.php">Dashboard</a>
 
         </main>
         <footer>
